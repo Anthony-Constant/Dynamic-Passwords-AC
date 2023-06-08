@@ -24,7 +24,7 @@ Includes the following:
 Note: The maximum length of the password is 88 characters.
 
 ## License
-This script is released under the MIT License. See the LICENSE file for more details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Acknowledgements
 This script was developed by [Anthony Constant](https://anthonyconstant.co.uk/).
