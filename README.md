@@ -23,6 +23,9 @@ Includes the following:
 
 Note: The maximum length of the password is 88 characters.
 
+## Demo
+https://youtu.be/-_EJfPBO_T0
+
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
